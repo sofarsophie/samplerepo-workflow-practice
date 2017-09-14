@@ -1,4 +1,5 @@
 # Lau Kar Rui
+> Year 2 Computing student in National University of Singapore, planning to major in Artificial Intelligence. I enjoy board games like Castles of Burgundy!
 
 ## Education
 * [2016 - Current] B.Comp in Computer Science, National University of Singapore, Singapore
